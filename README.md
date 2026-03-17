@@ -29,6 +29,72 @@ I am building a hybrid technical profile that combines **Mainframe + DevOps**, a
 ---
 
 ## 📂 Repository Structure
+mainframe-cobol/
+│
+├── cobol/           # COBOL programs and exercises
+├── jcl/             # JCL jobs, utilities and tests
+├── cics/            # CICS examples and practice
+├── tso-ispf/        # Panels, scripts and ISPF tools
+└── documentation/   # Notes, guides and references
+
+
+---
+
+## 🎯 Purpose
+
+The goal of this repository is to:
+
+- Document my progress in mainframe technologies  
+- Maintain clean, reproducible examples  
+- Demonstrate hands-on experience with COBOL and JCL  
+- Build a professional portfolio for legacy systems roles  
+
+---
+
+## 🧠 About Me
+
+I am developing a dual skillset:
+
+### **Mainframe**
+- COBOL  
+- JCL  
+- CICS  
+- TSO/ISPF  
+- TK5 practice environment  
+
+### **DevOps**
+- Linux  
+- Docker  
+- Kubernetes  
+- AWS  
+- GitHub Actions  
+- Bash scripting  
+
+This combination allows me to work across both traditional enterprise systems and modern cloud/automation environments.
+
+---
+
+## 📘 Documentation
+
+All notes, references and learning material are stored in:
+
+/documentation
+
+
+This includes TK5 notes, command references, workflow explanations and troubleshooting logs.
+
+---
+
+## 🌐 Spanish Version (Versión en Español)
+
+Este repositorio contiene mis ejercicios, prácticas y documentación relacionada con tecnologías de mainframe: COBOL, JCL, CICS y TSO/ISPF.  
+Mi objetivo es mantener un espacio organizado donde documentar mi progreso y demostrar experiencia práctica en entornos legacy.
+
+---
+
+<p align="center">
+  <strong>Repository maintained by Javi Peña</strong>
+</p>
 
 
 
