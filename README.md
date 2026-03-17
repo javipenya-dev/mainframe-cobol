@@ -29,13 +29,15 @@ I am building a hybrid technical profile that combines **Mainframe + DevOps**, a
 ---
 
 ## 📂 Repository Structure
+```
 mainframe-cobol/
 │
-├── cobol/           # COBOL programs and exercises
-├── jcl/             # JCL jobs, utilities and tests
-├── cics/            # CICS examples and practice
-├── tso-ispf/        # Panels, scripts and ISPF tools
-└── documentation/   # Notes, guides and references
+├── cobol/
+├── jcl/
+├── cics/
+├── tso-ispf/
+└── documentation/
+```
 
 
 ---
